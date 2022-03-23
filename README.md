@@ -6,12 +6,15 @@ cat .ssh/is_rsa.pub
 ```
 
 Go into profile settings on github
+
 foo pic here
 
 And into SSH and PGP keys
+
 foo pic here
 
 Hit new SSH key - make title memorable to that key
+
 foo pic here
 
 once the key is place we can test
@@ -22,6 +25,7 @@ ssh -T git@github.com
 ```
 
 then we'll grab the repo ssh url
+
 foo pic here
 
 and we'll go to a folder that we want to clone the repo to and run the below
