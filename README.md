@@ -11,11 +11,11 @@ Go into profile settings on github
 
 And into SSH and PGP keys
 
-foo pic here
+![This is an image](https://github.com/Bradley-Stradling/ssh_via_repo_for_UT_Cyber/blob/main/pics/ssh_and_gpg_keys.PNG)
 
 Hit new SSH key - make title memorable to that key
 
-foo pic here
+![This is an image](https://github.com/Bradley-Stradling/ssh_via_repo_for_UT_Cyber/blob/main/pics/new_ssh_key.PNG)
 
 once the key is place we can test
 
