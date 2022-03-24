@@ -7,7 +7,7 @@ cat .ssh/is_rsa.pub
 
 Go into profile settings on github
 
-foo pic here
+![This is an image](https://github.com/Bradley-Stradling/ssh_via_repo_for_UT_Cyber/blob/main/pics/profile_settings.PNG)
 
 And into SSH and PGP keys
 
