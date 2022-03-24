@@ -1,6 +1,6 @@
 # ssh_via_repo_for_UT_Cyber
 
-From your system that you ssh to the labs from copy the key for ssh.
+From your system that has your SSH key we'll grab the public key.
 ```
 cat .ssh/is_rsa.pub
 ```
@@ -24,16 +24,16 @@ once the key is place we can test
 ssh -T git@github.com
 ```
 
-then we'll grab the repo ssh url
+Then we'll grab the repo ssh url for our private repository
 
 ![This is an image](https://github.com/Bradley-Stradling/ssh_via_repo_for_UT_Cyber/blob/main/pics/ssh%20url.PNG)
 
-and we'll go to a folder that we want to clone the repo to and run the below
+We'll go to a location/folder that we want to clone the repo to and run the clone.
 ```
 git clone $foo_your_ssh_url$
 ```
 
-Now try editing a file in your repo directory (try the README) and then do:
+Now try editing a file in your repo directory (try the README) and then do the below to push the change
 ```
 git add -A
 git commit -am "Update README.md"
