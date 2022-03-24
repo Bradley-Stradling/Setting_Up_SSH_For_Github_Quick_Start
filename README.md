@@ -1,6 +1,6 @@
 # ssh_via_repo_for_UT_Cyber
 
-From your system that has your SSH key we'll grab the public key.
+From your system that has your SSH key we'll grab the public key and copy it.
 ```
 cat .ssh/is_rsa.pub
 ```
