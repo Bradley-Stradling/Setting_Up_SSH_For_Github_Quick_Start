@@ -13,7 +13,7 @@ And into SSH and PGP keys
 
 ![This is an image](https://github.com/Bradley-Stradling/ssh_via_repo_for_UT_Cyber/blob/main/pics/ssh_and_gpg_keys.PNG)
 
-Hit new SSH key - make title memorable to that key
+Hit new SSH key and paste in your ssh key - make title memorable to that key/account/system your ssh-ing from.
 
 ![This is an image](https://github.com/Bradley-Stradling/ssh_via_repo_for_UT_Cyber/blob/main/pics/new_ssh_key.PNG)
 
@@ -26,7 +26,7 @@ ssh -T git@github.com
 
 then we'll grab the repo ssh url
 
-foo pic here
+![This is an image](https://github.com/Bradley-Stradling/ssh_via_repo_for_UT_Cyber/blob/main/pics/ssh%20url.PNG)
 
 and we'll go to a folder that we want to clone the repo to and run the below
 ```
