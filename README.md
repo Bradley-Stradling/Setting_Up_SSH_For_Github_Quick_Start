@@ -2,7 +2,7 @@
 
 From your system that has your SSH key we'll grab the public key and copy it.
 ```
-cat .ssh/is_rsa.pub
+cat .ssh/id_rsa.pub
 ```
 
 Go into profile settings on github
